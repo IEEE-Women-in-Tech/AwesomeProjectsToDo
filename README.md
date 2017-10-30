@@ -157,6 +157,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Sponsored dinners in San Francisco where the women coming from all over are invited to share their experiences, alongside prominent speakers from the female tech communits. The events also offer networking and potential recruiting by the sponsoring company. It has been hosted by 100+ companies and has several events per month.
 
+  - [Write/Speak/Code](http://www.writespeakcode.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
+
+     Write / Speak / Code is a non-profit that works to promote the voices and leadership of women and non-binary coders in tech through conferences and other events. WSC fosters thought leaders, conference speakers, and open source contributors and is welcome to anyone who has written a line of code and can explain what it does. Chapters are currently in the Bay Area, NYC, and Chicago.
+
 ## Initiatives/Programs 
 
 
