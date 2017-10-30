@@ -157,6 +157,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Sponsored dinners in San Francisco where the women coming from all over are invited to share their experiences, alongside prominent speakers from the female tech communits. The events also offer networking and potential recruiting by the sponsoring company. It has been hosted by 100+ companies and has several events per month.
 
+  - [Tech Ladies](http://www.hiretechladies.com/)
+
+     Tech Ladies connects women to exclusive events and job postings in order to promote the representation of women in technology. Basic membership is free and events are held in multiple locations, including in the U.S. and Canada.
+
 ## Initiatives/Programs 
 
 
